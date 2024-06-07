@@ -64,6 +64,7 @@ Este projeto representa um passo significativo na direção de uma gestão suste
 **Nota:** O código Python fornecido acima é uma implementação detalhada do backend de análise de dados, que é uma parte crucial deste projeto. Ele cobre todas as funcionalidades necessárias para processar e analisar os dados coletados pelos sensores ESP 32, bem como para gerar visualizações gráficas essenciais para entender a saúde dos ecossistemas marinhos.
 
 ## ⚙️ Código fonte
+```python
 import json
 from datetime import datetime
 import matplotlib.pyplot as plt
@@ -303,7 +304,7 @@ def main():
                 print("Opção inválida. Por favor, digite um número válido ou 'S' para sair.")
 
 main()
-
+```
 
 ## 👨🏽‍🏭👨🏽‍🔧👨🏽‍🏭 Autores
 <p align="center">
