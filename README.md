@@ -142,7 +142,7 @@ def filtrar_por_periodo(dados, data_inicio, data_fim):
     # Retorna uma lista de itens cuja data está dentro do intervalo especificado com list comprehension
     return [item for item in dados if data_inicio <= datetime.strptime(item['data'], '%Y-%m-%d') <= data_fim]
 
-# TRATAMENTO DE DADO ▲
+# TRATAMENTO DE DADOS ▲
 # CÁLCULOS ▼
 
 def calcular_media(dados, atributo):
