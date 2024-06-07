@@ -65,7 +65,7 @@ Este projeto representa um passo significativo na direção de uma gestão suste
 
 #### Demonstração de protótipo:
 
-- [Link para o vídeo]()
+- [Link para o vídeo](https://youtu.be/opR9xPBYg_E)
 
 ## ⚙️ Código fonte
 ```python
